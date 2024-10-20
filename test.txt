@@ -1,0 +1,3 @@
+This is a very simple page
+But we can edit and save.
+How cool is golang?
