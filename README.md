@@ -1,1 +1,2 @@
-scratcher for webstuff in go
+scratcher for network stuff in go
+=================================
